@@ -1,1 +1,6 @@
+*   14de896 Merge branch 'feature/testing-merge'
+|\  
+| * b260b73 change the price in data.js
+|/  
+* 5e5c190 second commit
 * de6fa1d first commit
